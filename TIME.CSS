@@ -1,0 +1,32 @@
+.timetable *{
+    background-color: black;
+}
+.caption{
+    font-size: 100px;
+  color: rgb(160, 109, 253);
+}
+thead{
+    color: white;
+}
+#null{
+   color: black; 
+}
+.monday{
+color: rgb(252, 87, 87);
+}
+.tuesday{
+    color: rgb(255, 253, 122);
+    }
+    .wednesday{
+        color: rgb(255, 0, 191);
+        }
+        .thursday{
+            color: rgb(0, 110, 255);
+            }
+            .friday{
+            color: rgb(0, 255, 42);
+                }
+                table{
+                   border-style: solid;
+                   border-color: rgb(0, 0, 0);
+                }
